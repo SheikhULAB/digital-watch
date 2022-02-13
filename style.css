@@ -1,0 +1,18 @@
+body {
+    background-color: #f1f1f2;
+}
+
+.MyWatch {
+    top: 35%;
+    left: 34%;
+    position: fixed;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+
+}
+
+span {
+    font-size: 50px;
+}
